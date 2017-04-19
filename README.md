@@ -1,2 +1,2 @@
 # ProjectEuler
-Repository for problem in Project Euler
+Repository for problems in Project Euler
