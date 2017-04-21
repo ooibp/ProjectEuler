@@ -1,2 +1,2 @@
 # ProjectEuler
-Repository for problems in Project Euler
+Repository for solutions in Project Euler using Go language.
